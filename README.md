@@ -1,4 +1,5 @@
 # playingcard
+这是一个使用onnxruntime识别纸牌的目标检测项目的部署实例
 
 pip install -r requirements.txt
 安装依赖库
